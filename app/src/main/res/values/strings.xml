@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">C346 Assignment</string>
+    <string name="introduction">Our mission is to deliver and offer only the finest quality of products to our consumers. Our vision is to be the most known go-to electrical e-commerce website in Singapore.</string>
+    <string name="welcome">Welcome to Urban Technology!</string>
+    <string name="samsung_galaxy_s21_ultra_5g">Samsung Galaxy S21 Ultra 5G</string>
+    <string name="oppo_a53_5g">Oppo A53 5G</string>
+    <string name="apple_macbook_pro">Apple MacBook Pro</string>
+    <string name="hp_spectre_x360_15">HP Spectre x360 15</string>
+    <string name="whats_trending">What is trending?</string>
+    <string name="view_website">go to website</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="remove">remove</string>
+    <string name="view_products_list">view products list</string>
+    <string-array name="spinnerProductActions">
+        <item>Add a new product</item>
+        <item>Update a product</item>
+        <item>Remove a product</item>
+    </string-array>
+    <string-array name="spinnerMonths">
+        <item>1 month</item>
+        <item>3 months</item>
+        <item>6 months</item>
+    </string-array>
+</resources>
